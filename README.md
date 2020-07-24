@@ -1,7 +1,7 @@
 # Hassan-Bari-Raza
-SKILLS: Machine Leaning, Python, Web Scraping, Full Stack Development, MongoDB/MySQL/PostgreSQL, Chatbot, AWS, Heroku, Ngrok </br>
-**Hire me for my skills based projects:-**
-_Email id:_ **_hbr8218@gmail.com_**
+SKILLS: Machine Leaning, Python, Web Scraping, Full Stack Development, MongoDB/MySQL/PostgreSQL, Chatbot, AWS, Heroku, Ngrok <br />
+**Hire me for my skills based projects:-** <br />
+_Email id:_ **_hbr8218@gmail.com_** <br />
 _Contact number:_ **_+91 7477371279_**
 
 ## [Project 1: Iris Flower Problem](https://github.com/hbr8218/pdfdocx)
