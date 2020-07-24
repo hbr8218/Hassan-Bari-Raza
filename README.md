@@ -12,8 +12,9 @@ _Contact number:_ **_+91 7477371279_**
 
 
 ## [Project 2: REMOTE INCUBATOR](https://github.com/hbr8218/remote-incubator)
-- Selected as to work on this live project as an intern(trainee) there, this project was being developed by [Fame Technologies](http://fametechnologies.in/) situated at Bangalore.
+- Selected as to work on this live project as an intern(trainee) in Fame Technologies, Bangalore. This project was being developed by [Fame Technologies](http://fametechnologies.in/) situated at Bangalore.
 - This is a Backend API for the project **REMOTE INCUBATOR** 
+- Created HTTP Services (GET, POST, PUT, DELETE) for all tables (database)
 - Created auto-generated mailing system
 - Integrated Razorpay API for payment logics
 
@@ -22,10 +23,11 @@ _Contact number:_ **_+91 7477371279_**
 - Final year project, highly appreciated by _Computer Science and Engineering_ Department.
 - How different factors can affet the a student's performance has been shown.
 - Also analysed on a sample dataset of my own college.
-- Techniques like multi-pipeline, column transformation, Data normalization, Principal Component Analysis(PCA) have been used.
+- Techniques like multi-pipeline, column transformation, Data normalization, Principal Component Analysis(PCA), etc have been used.
 
 ![alt](https://user-images.githubusercontent.com/42790586/88255076-fdb74180-ccd4-11ea-886f-33551729644c.png)
 
 ## Upcoming Projects
-1. TradeSkills (Full-Featured AI based platform for Option trading).
-2. Chat-Co19 (A chatbot informing latest cases of pandemic outbreak).
+1. DataFix (A data-science beginner's platform to create own Machine Learning models)
+2. TradeSkills (Full-Featured AI based platform for Option trading).
+3. Chat-Co19 (A chatbot informing latest cases of pandemic outbreak).
