@@ -23,3 +23,4 @@ _Contact number:_ **_+91 7477371279_**
 - How different factors can affet the a student's performance has been shown.
 - Also analysed on a sample dataset of my own college.
 - Techniques like multi-pipeline, column transformation, Data normalization, Principal Component Analysis(PCA) have been used.
+![alt](https://user-images.githubusercontent.com/42790586/88255076-fdb74180-ccd4-11ea-886f-33551729644c.png)
