@@ -6,7 +6,7 @@ _Contact number:_ **_+91 7477371279_**
 
 ## [Project 1: PDF TO WORD CONVERTER](https://github.com/hbr8218/pdfdocx)
 - It was a Client's project
-- Integrated it [groupdocs](https://www.groupdocs.com) API
+- Integrated it with [groupdocs](https://www.groupdocs.com) API
 - Used [ngrok](https://www.ngrok.com) for port forwarding
 - Attractive UI/UX
 
@@ -23,4 +23,9 @@ _Contact number:_ **_+91 7477371279_**
 - How different factors can affet the a student's performance has been shown.
 - Also analysed on a sample dataset of my own college.
 - Techniques like multi-pipeline, column transformation, Data normalization, Principal Component Analysis(PCA) have been used.
+
 ![alt](https://user-images.githubusercontent.com/42790586/88255076-fdb74180-ccd4-11ea-886f-33551729644c.png)
+
+## Upcoming Projects
+1. TradeSkills (Full-Featured AI based platform for Option trading).
+2. Chat-Co19 (A chatbot informing latest cases of pandemic outbreak).
