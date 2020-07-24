@@ -27,6 +27,13 @@ _Contact number:_ **_+91 7477371279_**
 
 ![alt](https://user-images.githubusercontent.com/42790586/88255076-fdb74180-ccd4-11ea-886f-33551729644c.png)
 
+## [Project 4: Job Crab](https://github.com/hbr8218/job-Crab)
+- Fetchs job's details from one of the biggest job portal website
+- Write information in a csv file.
+- Progress bar for tracing project's task
+
+![job_crab](https://user-images.githubusercontent.com/42790586/88427279-40c9ff80-ce10-11ea-9814-ccd98350cd59.gif)
+
 ## Upcoming Projects
 1. DataFix (A data-science beginner's platform to create own Machine Learning models)
 2. TradeSkills (Full-Featured AI based platform for Option trading).
