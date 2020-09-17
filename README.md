@@ -4,7 +4,7 @@ SKILLS: Machine Leaning, Python, Linux OS, Web Scraping, Full Stack Development,
 _Email id:_ **_hbr8218@gmail.com_** <br />
 _Contact number:_ **_+91 7477371279_**
 
-## [Project 1: PDF TO WORD CONVERTER](https://github.com/hbr8218/pdfdocx)
+## [Project 1: PDF <-> WORD CONVERTER](https://github.com/hbr8218/pdfdocx)
 - It was a Client's project
 - Integrated it with [groupdocs](https://www.groupdocs.com) API
 - Used [ngrok](https://www.ngrok.com) for port forwarding
