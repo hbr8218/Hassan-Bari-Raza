@@ -2,7 +2,7 @@
 SKILLS: Machine Leaning, Python, Linux OS, Web Scraping, Full Stack Development, MongoDB/MySQL/PostgreSQL, Chatbot, AWS, Heroku, Ngrok <br />
 **Hire me for my skills based projects:-** <br />
 _Email id:_ **_hbr8218@gmail.com_** <br />
-_Contact number:_ **_+91 7477371279_**
+_Contact number:_ **_+91 9304170347_**
 
 ## [Project 1: PDF <-> WORD CONVERTER](https://github.com/hbr8218/pdfdocx)
 - It was a Client's project
